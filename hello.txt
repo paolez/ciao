@@ -2,6 +2,11 @@ hi, there
 why hello
 
 add hello from git
+<<<<<<< HEAD
 
 
 adde hello from office
+=======
+add hello from clone
+
+>>>>>>> 25405f83649f813888a98aa75881dedcd2e77114
